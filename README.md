@@ -13,4 +13,4 @@ The Short Link Project is a URL shortening service that allows users to create s
 This project is licensed under the MIT License.
 
 ## Contact
-For any inquiries, please contact [your email].
+For any inquiries, please contact soheilkhaledabdi@gmail.com.
